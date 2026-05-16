@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Archive of Dust placeholder</title>
+  <desc id="desc">Abstract archive placeholder with shelves and soft gray fields.</desc>
+  <rect width="1200" height="900" fill="#e7e3dc"/>
+  <rect x="176" y="148" width="848" height="604" fill="#f0eee9" stroke="#aaa59b" stroke-width="3"/>
+  <path d="M240 238h720M240 338h720M240 438h720M240 538h720M240 638h720" stroke="#9a958b" stroke-width="3"/>
+  <path d="M348 190v520M512 190v520M676 190v520M840 190v520" stroke="#c9c4ba" stroke-width="3"/>
+  <path d="M94 804 1080 136M28 410 576 24M626 910 1152 554" stroke="#cbc6bc" stroke-width="2"/>
+  <circle cx="930" cy="216" r="70" fill="#d9d5cc" opacity=".6"/>
+</svg>

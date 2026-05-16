@@ -1,0 +1,98 @@
+[
+  {
+    "id": "threshold-atlas",
+    "title": "Threshold Atlas",
+    "subtitle": "A study of civic thresholds, shadow, and collective entry.",
+    "year": "2026",
+    "location": "New Haven, CT",
+    "category": "Research Studio",
+    "description": "Placeholder project description. Replace this paragraph with the project's design question, site condition, process, and final spatial argument. This template supports concise but atmospheric writing suited to an architecture portfolio.",
+    "image": "assets/projects/threshold-atlas.svg",
+    "alt": "Abstract architectural placeholder drawing with pale gray masses and diagonal guide lines.",
+    "credits": "Placeholder details: critic, collaborators, tools, and drawing or model media."
+  },
+  {
+    "id": "house-for-two-courtyards",
+    "title": "House for Two Courtyards",
+    "subtitle": "Domestic rooms organized through light wells and compressed passages.",
+    "year": "2025",
+    "location": "Ahmedabad, India",
+    "category": "Housing",
+    "description": "Placeholder project description. Note the program, climate strategy, circulation sequence, and material logic. Keep the entry editable so images and drawings can be replaced later.",
+    "image": "assets/projects/two-courtyards.svg",
+    "alt": "Minimal gray courtyard house placeholder with two open voids and thin plan lines.",
+    "credits": "Placeholder details: individual studio project, Rhino, AutoCAD, physical model."
+  },
+  {
+    "id": "common-roof",
+    "title": "Common Roof",
+    "subtitle": "A public market canopy negotiating shade, water, and informal exchange.",
+    "year": "2025",
+    "location": "Queens, NY",
+    "category": "Civic Infrastructure",
+    "description": "Placeholder project description. Summarize the urban premise, structural approach, and public use. The language should foreground the architectural idea before listing deliverables.",
+    "image": "assets/projects/common-roof.svg",
+    "alt": "Pale architectural canopy placeholder with columns, diagonal bracing, and gridded shadows.",
+    "credits": "Placeholder details: group studio, structural diagrams, environmental analysis."
+  },
+  {
+    "id": "archive-of-dust",
+    "title": "Archive of Dust",
+    "subtitle": "Speculative repository for fragile material records and atmospheric residue.",
+    "year": "2024",
+    "location": "Detroit, MI",
+    "category": "Archive / Installation",
+    "description": "Placeholder project description. Use this space for conceptual framing, research method, and the relationship between object, container, and visitor.",
+    "image": "assets/projects/archive-of-dust.svg",
+    "alt": "Abstract archive placeholder with stacked shelves, soft gray fields, and diagonal construction lines.",
+    "credits": "Placeholder details: exhibition proposal, model photography, archival research."
+  },
+  {
+    "id": "sectional-garden",
+    "title": "Sectional Garden",
+    "subtitle": "A landscape section translated into inhabitable retaining walls.",
+    "year": "2024",
+    "location": "Hudson Valley, NY",
+    "category": "Landscape",
+    "description": "Placeholder project description. Describe the topographic idea, planting strategy, and sequence of movement through section rather than plan alone.",
+    "image": "assets/projects/sectional-garden.svg",
+    "alt": "Terraced landscape placeholder with gray retaining walls, planting marks, and sectional lines.",
+    "credits": "Placeholder details: site survey, hand drawing, GIS, section model."
+  },
+  {
+    "id": "edge-library",
+    "title": "Edge Library",
+    "subtitle": "Reading rooms suspended between a highway edge and a neighborhood street.",
+    "year": "2023",
+    "location": "Philadelphia, PA",
+    "category": "Public Building",
+    "description": "Placeholder project description. Explain how the building mediates noise, scale, access, and public interior space.",
+    "image": "assets/projects/edge-library.svg",
+    "alt": "Library placeholder elevation with stacked reading volumes and thin facade rhythm.",
+    "credits": "Placeholder details: comprehensive studio, Revit, wall section, physical model."
+  },
+  {
+    "id": "water-table-room",
+    "title": "Water Table Room",
+    "subtitle": "A small research station calibrated to seasonal ground water changes.",
+    "year": "2023",
+    "location": "Cape Cod, MA",
+    "category": "Environmental Research",
+    "description": "Placeholder project description. Replace with field observations, environmental metrics, and the architectural response to changing water levels.",
+    "image": "assets/projects/water-table-room.svg",
+    "alt": "Research station placeholder with water datum lines and a light gray building section.",
+    "credits": "Placeholder details: climate research, sensor mapping, sectional model."
+  },
+  {
+    "id": "room-and-frame",
+    "title": "Room and Frame",
+    "subtitle": "A sequence of framed interiors exploring proportion and borrowed views.",
+    "year": "2022",
+    "location": "Providence, RI",
+    "category": "Foundation Studio",
+    "description": "Placeholder project description. Use this entry for early design work, emphasizing iteration, drawing discipline, and spatial clarity.",
+    "image": "assets/projects/room-and-frame.svg",
+    "alt": "Interior frame placeholder with nested rectangles, pale fills, and diagonal reference lines.",
+    "credits": "Placeholder details: hand drafting, basswood model, analytical diagrams."
+  }
+]

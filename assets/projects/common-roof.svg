@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Common Roof placeholder</title>
+  <desc id="desc">Pale market canopy placeholder with columns and diagonal bracing.</desc>
+  <rect width="1200" height="900" fill="#ebe8e1"/>
+  <path d="M140 262h920l-84 186H222z" fill="#d6d2c9" stroke="#989389" stroke-width="3"/>
+  <path d="M238 448v248M424 448v248M610 448v248M796 448v248M982 448v248" stroke="#8f8a81" stroke-width="10"/>
+  <path d="M222 448 976 696M976 448 222 696M140 262 1060 448M1060 262 140 448" stroke="#c8c2b8" stroke-width="2"/>
+  <rect x="188" y="700" width="840" height="36" fill="#d6d2c9" stroke="#aaa59b"/>
+</svg>

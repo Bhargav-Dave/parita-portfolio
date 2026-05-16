@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Edge Library placeholder</title>
+  <desc id="desc">Library placeholder elevation with stacked volumes and facade rhythm.</desc>
+  <rect width="1200" height="900" fill="#e5e2db"/>
+  <rect x="184" y="250" width="832" height="390" fill="#d9d5cc" stroke="#9d978d" stroke-width="3"/>
+  <rect x="268" y="170" width="360" height="145" fill="#efede8" stroke="#9d978d" stroke-width="3"/>
+  <rect x="600" y="426" width="330" height="150" fill="#efede8" stroke="#9d978d" stroke-width="3"/>
+  <path d="M238 250v390M308 250v390M378 250v390M448 250v390M518 250v390M588 250v390M658 250v390M728 250v390M798 250v390M868 250v390M938 250v390" stroke="#c2bdb4" stroke-width="2"/>
+  <path d="M126 694h948M184 250l832 390M1016 250 184 640" stroke="#bdb8af" stroke-width="2"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Water Table Room placeholder</title>
+  <desc id="desc">Research station placeholder with water datum lines and a building section.</desc>
+  <rect width="1200" height="900" fill="#e8e5de"/>
+  <path d="M120 606h960M120 660h960M120 714h960" stroke="#a8a59e" stroke-width="3" stroke-dasharray="12 14"/>
+  <path d="M328 564V320l220-110 324 110v244" fill="#efede8" stroke="#928c83" stroke-width="4"/>
+  <path d="M548 210v354M328 320h544M438 388h88v176M636 388h120v176" fill="none" stroke="#928c83" stroke-width="3"/>
+  <path d="M118 198 1068 778M36 502 720 78" stroke="#c7c2b8" stroke-width="2"/>
+  <rect x="258" y="564" width="690" height="26" fill="#d6d2ca" stroke="#aaa59b"/>
+</svg>

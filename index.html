@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Architecture Portfolio</title>
+    <meta
+      name="description"
+      content="A static architecture portfolio index and CV template for GitHub Pages."
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#content-panel">Skip to portfolio content</a>
+    <header class="site-header" aria-label="Portfolio navigation">
+      <a class="brand" href="#about" data-view="about">Portfolio</a>
+      <button class="nav-button" type="button" data-view="about">About / Index</button>
+      <nav class="contact-nav" aria-label="Contact links">
+        <a href="mailto:hello@example.com">Email</a>
+        <a href="https://www.instagram.com/" rel="noreferrer">Instagram</a>
+      </nav>
+    </header>
+
+    <main class="split-layout">
+      <section class="project-index" aria-labelledby="project-index-title">
+        <div class="panel-kicker">
+          <h1 id="project-index-title">Project Index</h1>
+          <p>Selected architectural studies, research fragments, and spatial propositions.</p>
+        </div>
+        <div class="project-grid" id="project-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="content-panel" id="content-panel" tabindex="-1" aria-live="polite">
+        <article class="about-view" id="about">
+          <p class="eyebrow">Curriculum / Portfolio Statement</p>
+          <h2>
+            <span>Extra-Architectural</span>
+            <em>Reflections on Research</em>
+          </h2>
+          <p class="standfirst">
+            This placeholder portfolio frames architecture as a field of observation:
+            drawing from material study, civic infrastructure, domestic rituals, and
+            the quiet evidence of changing landscapes.
+          </p>
+
+          <dl class="about-ledger" aria-label="Portfolio information">
+            <div>
+              <dt>Candidate</dt>
+              <dd>Architecture Student</dd>
+            </div>
+            <div>
+              <dt>Focus</dt>
+              <dd>Research, housing, civic infrastructure</dd>
+            </div>
+            <div>
+              <dt>Archive</dt>
+              <dd>Selected work, 2022-2026</dd>
+            </div>
+          </dl>
+
+          <div class="text-columns">
+            <p>
+              Replace this text with a concise portfolio statement. Describe the
+              questions that organize the work, the tools used to test them, and the
+              environments where the projects took shape.
+            </p>
+            <p>
+              The format is intentionally editorial and restrained, so drawings,
+              models, field notes, and project imagery can become the visual center
+              of the page without competing interface decoration.
+            </p>
+          </div>
+
+          <div class="cv-grid" aria-label="CV sections">
+            <section>
+              <h3>Education</h3>
+              <p>Master of Architecture, Placeholder University, 2026</p>
+              <p>Bachelor of Design Studies, Placeholder College, 2022</p>
+            </section>
+            <section>
+              <h3>Selected Work</h3>
+              <p>Studio Assistant, Urban Systems Lab, 2025</p>
+              <p>Research Intern, Material Commons Archive, 2024</p>
+            </section>
+            <section>
+              <h3>Exhibitions / Publications</h3>
+              <p>Threshold Atlas, Student Research Review, 2026</p>
+              <p>Commons in Section, Graduate Studio Exhibition, 2025</p>
+            </section>
+            <section>
+              <h3>Achievements</h3>
+              <p>Dean's Merit Scholarship, 2024-2026</p>
+              <p>Finalist, Regional Housing Futures Prize, 2025</p>
+            </section>
+            <section>
+              <h3>Skills</h3>
+              <p>Rhino, AutoCAD, Revit, Adobe Creative Suite, GIS, model making</p>
+            </section>
+            <section>
+              <h3>Contact</h3>
+              <p><a href="mailto:hello@example.com">hello@example.com</a></p>
+              <p><a href="https://www.instagram.com/" rel="noreferrer">@portfolio</a></p>
+            </section>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

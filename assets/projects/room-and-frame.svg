@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Room and Frame placeholder</title>
+  <desc id="desc">Interior frame placeholder with nested rectangles and diagonal reference lines.</desc>
+  <rect width="1200" height="900" fill="#e6e3dc"/>
+  <rect x="190" y="126" width="820" height="648" fill="#f1efe9" stroke="#a39d93" stroke-width="4"/>
+  <rect x="300" y="218" width="600" height="464" fill="none" stroke="#928c83" stroke-width="4"/>
+  <rect x="420" y="314" width="360" height="272" fill="#d8d4cb" stroke="#928c83" stroke-width="4"/>
+  <path d="M190 126l820 648M1010 126 190 774M300 218l480 368M900 218 420 586" stroke="#c8c3b9" stroke-width="2"/>
+  <path d="M520 314v272M680 314v272M420 450h360" stroke="#a8a299" stroke-width="3"/>
+</svg>

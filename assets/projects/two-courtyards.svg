@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">House for Two Courtyards placeholder</title>
+  <desc id="desc">Minimal courtyard house placeholder with two open voids and plan lines.</desc>
+  <rect width="1200" height="900" fill="#e4e1da"/>
+  <path d="M96 130h1008v640H96z" fill="#d7d3ca" stroke="#a9a399" stroke-width="3"/>
+  <rect x="228" y="244" width="245" height="238" fill="#f4f2ed" stroke="#969087" stroke-width="3"/>
+  <rect x="710" y="392" width="242" height="240" fill="#f4f2ed" stroke="#969087" stroke-width="3"/>
+  <path d="M96 770 1104 130M96 130l1008 640M592 130v640M96 450h1008" stroke="#c8c3b8" stroke-width="2"/>
+  <path d="M520 244h130v388M228 544h445M710 330H473" fill="none" stroke="#8f8a81" stroke-width="3"/>
+</svg>

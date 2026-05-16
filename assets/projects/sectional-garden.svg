@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sectional Garden placeholder</title>
+  <desc id="desc">Terraced landscape placeholder with retaining walls and planting marks.</desc>
+  <rect width="1200" height="900" fill="#e9e6df"/>
+  <path d="M90 682h252V560h224V438h244V316h300" fill="none" stroke="#8f8a81" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M90 742h1020M90 622h252M342 500h224M566 378h244M810 256h300" stroke="#c7c2b8" stroke-width="3"/>
+  <path d="M150 652c24-54 68-54 92 0M410 530c18-42 58-42 76 0M656 408c22-48 62-48 84 0M920 286c20-45 62-45 82 0" fill="none" stroke="#9c968c" stroke-width="3"/>
+  <path d="M80 238 1120 716M-12 552 870 78" stroke="#cbc6bc" stroke-width="2"/>
+</svg>

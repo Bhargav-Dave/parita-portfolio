@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Threshold Atlas placeholder</title>
+  <desc id="desc">Pale architectural placeholder drawing with gray masses and diagonal guide lines.</desc>
+  <rect width="1200" height="900" fill="#e8e5de"/>
+  <path d="M72 808 1118 98M-40 414 604 -34M552 954 1246 490" stroke="#cfcac0" stroke-width="2"/>
+  <rect x="155" y="184" width="355" height="510" fill="#d8d5ce" stroke="#aaa59b"/>
+  <rect x="545" y="128" width="408" height="620" fill="#efede8" stroke="#aaa59b"/>
+  <path d="M222 246h218v384H222zM617 208h250v112H617zm0 170h250v288H617z" fill="none" stroke="#8f8a81" stroke-width="3"/>
+  <circle cx="962" cy="716" r="52" fill="none" stroke="#aaa59b" stroke-width="3"/>
+</svg>
